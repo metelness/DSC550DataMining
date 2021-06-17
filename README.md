@@ -11,7 +11,7 @@ The goal of this project is to analyze Tweets from the president. There are no p
 - Is it possible to determine if President Trump was President at the time of the tweet, based on the topic itself?
 
 Again, there are no political motives for this analysis. It will simply be interesting to apply several subjects learned form this course to unstructured data. These steps include:
-1.	Loading a csv to data frame.
+- Loading a csv to data frame.
 - Cleaning the text data:
   - Remove punctuation
   - Lower case the text
